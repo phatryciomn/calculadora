@@ -1,5 +1,3 @@
-<script>
-    function calcular(tipo, valor) {
-        
-    }
-</script>
+function calcular(tipo, valor) {
+    console.log(tipo, valor)
+}
